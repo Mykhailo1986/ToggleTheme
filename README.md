@@ -6,7 +6,10 @@ This PowerShell script allows you to toggle between light and dark themes on Win
 - Windows operating system
 
 ## Usage
-1. Download the script file (`ToggleTheme.ps1`) to your computer.
+1. Download the script file (`ToggleTheme.ps1`) to your computer. Alternatively, you can clone the repository using the following command:
+   ```bash
+   git clone https://github.com/Mykhailo1986/ToggleTheme.git
+   ```
 2. (Optional) Open the script file in a text editor of your choice.
    - Modify the `$DarkWallPaper` and `$LightWallpaper` variables to specify the paths to your dark and light wallpapers, respectively.
    - Save the changes to the script file.
